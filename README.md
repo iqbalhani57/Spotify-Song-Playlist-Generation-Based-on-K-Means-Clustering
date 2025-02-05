@@ -72,7 +72,7 @@ To address this, I drop features with high VIF values one by one and check the V
 
 
 #### VIF Interpretation:
-- Features like `time_signature`, `danceability`, `energy`, and `length` had high VIF values and were dropped because they exhibited multicollinearity with other features.
+- Features like `time_signature`, `danceability`, `energy`, `length`, and features that had high VIF values were dropped because they exhibited multicollinearity with other features.
 - After dropping these high-VIF features, the remaining features, such as `instrumentalness`, `acousticness`, `speechiness`, 'key', 'liveness', and 'valence' have VIF values well below 5, indicating that they are not highly collinear and can be safely used for clustering without introducing multicollinearity.
 
 #### VIF Output after filtering
