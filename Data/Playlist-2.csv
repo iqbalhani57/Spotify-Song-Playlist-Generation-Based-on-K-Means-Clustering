@@ -1,0 +1,68 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature
+Head In The Clouds,Head In The Clouds,88rising,3kYARoLSAvt86VFZ55BQcq,2018-07-20,60,178022,0.516,0.281,0.456,1.27e-05,0.0847,0.238,-9.242,0.0397,145.843,9,4
+Prelude - Live,Kita Sama-Sama Suka Hujan (Live Konser 2015),Various Artists,1cBmUmmh1YAxRwgNEyFxAj,2017-09-29,9,340035,0.166,0.959,0.302,0.945,0.491,0.0358,-10.776,0.0332,136.512,4,4
+Is It The Answer,Is It The Answer,Reality Club,5dFLCZFECZMRYICtN31BMg,2017-03-04,51,232594,0.722,0.454,0.708,9.97e-05,0.148,0.462,-7.029,0.0286,117.501,0,4
+Tafsir Mistik,Tafsir Mistik,The Panturas,0aPepMh9otBMbV4xKmiRtq,2021-03-05,44,249343,0.488,0.123,0.92,0.000524,0.899,0.469,-6.289,0.0779,115.209,2,4
+Dynamite,BE,BTS,4saklk6nie3yiGePpBwUoc,2020-11-20,5,199053,0.746,0.0112,0.765,0.0,0.0936,0.737,-4.41,0.0993,114.044,6,4
+LOVE SCENARIO,Return,iKON,3d3ELsqKlQ7WA0a10Isu3l,2018-01-25,70,209648,0.806,0.331,0.707,0.0,0.294,0.746,-4.623,0.0307,118.009,7,4
+Girls Like You,Red Pill Blues (Deluxe),Maroon 5,6BoCisOAzZMNr0GPrKLB0M,2017-11-03,0,215229,0.837,0.536,0.467,0.0,0.128,0.424,-7.062,0.0439,125.004,0,4
+Colour,Colour,MNEK,7haQE5nOcxwk0HXahP0aV3,2018-06-01,53,201420,0.683,0.408,0.782,0.0,0.236,0.673,-2.989,0.0497,100.954,0,4
+Higher Love,Higher Love,Kygo,6oJ6le65B3SEqPwMRNXWjY,2019-06-28,74,228267,0.693,0.0151,0.678,5.71e-06,0.101,0.404,-7.159,0.0324,103.952,8,4
+Lie To Me (feat. Julia Michaels),Lie To Me (feat. Julia Michaels),5 Seconds of Summer,6GzApXoBQiiAjak3tOQfV3,2018-12-21,67,149877,0.611,0.0132,0.52,0.0,0.105,0.771,-5.445,0.0346,159.927,0,4
+Sunflower - Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Various Artists,3KkXRkHbMCARz0aVfEt68P,2018-12-14,81,158040,0.76,0.556,0.479,0.0,0.0703,0.913,-5.574,0.0466,89.911,2,4
+What Do You Mean?,Purpose (Deluxe),Justin Bieber,4B0JvthVoAAuygILe3n4Bs,2015-11-13,77,205680,0.845,0.59,0.567,0.00142,0.0811,0.793,-8.118,0.0956,125.02,5,4
+Paris,Memories...Do Not Open,The Chainsmokers,72jbDTw1piOOj770jWNeaG,2017-04-07,74,221506,0.653,0.0215,0.658,1.66e-06,0.0939,0.219,-6.428,0.0304,99.99,2,4
+IDGAF,Dua Lipa (Deluxe),Dua Lipa,76cy1WJvNGJTj78UqeA5zr,2017-06-02,78,217946,0.836,0.0403,0.544,0.0,0.0824,0.51,-5.975,0.0943,97.028,7,4
+"Let Me Go (with Alesso, Florida Georgia Line & watt)","Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,5AEtlRudpgdT5FtNiuly6Y,2017-09-08,0,174800,0.659,0.0393,0.717,0.0,0.0769,0.71,-4.202,0.0581,103.036,8,4
+Monolog,Walk The Talk,Pamungkas,77vx7sGjdqwdnQL968t8oY,2018-07-15,69,207216,0.476,0.108,0.578,0.558,0.131,0.298,-9.252,0.0312,96.978,4,4
+The A Team,+,Ed Sheeran,1VdZ0vKfR5jneCmWIUAMxK,2011-09-09,73,258373,0.642,0.669,0.289,0.0,0.18,0.407,-9.918,0.0367,84.996,9,4
+Count on Me,Doo-Wops & Hooligans,Bruno Mars,7l1qvxWjxcKpB9PCtBuTbU,2010-10-05,73,197469,0.589,0.851,0.389,0.0,0.0772,0.501,-5.972,0.028,89.1,0,4
+drivers license,drivers license,Olivia Rodrigo,7lPN2DXiMsVn7XUKtOW1CS,2021-01-08,28,242013,0.585,0.721,0.436,1.31e-05,0.105,0.132,-8.761,0.0601,143.874,10,4
+comethru,"summer,",Jeremy Zucker,18uwL0vNUanqZH0ro2QcOP,2018-09-28,76,181613,0.795,0.607,0.178,0.0,0.623,0.608,-11.991,0.0574,93.982,0,4
+all the kids are depressed,glisten,Jeremy Zucker,75ls0gurX68lUmMjE7QcsE,2018-05-04,72,169973,0.773,0.836,0.437,2.42e-05,0.544,0.707,-8.281,0.0963,103.861,9,4
+Way Back Home,Take,SHAUN,3NxuezMdSLgt4OwHzBoUhL,2018-06-27,68,214136,0.745,0.405,0.739,0.000183,0.127,0.556,-4.591,0.0327,99.913,10,4
+Selimut Hati,Kerajaan Cinta,Dewa 19,3mM7f12I9yOmLeqye0bII2,2007,0,279289,0.703,0.547,0.428,9.84e-05,0.129,0.545,-8.41,0.0286,74.996,9,4
+Rumah Ke Rumah,Menari Dengan Bayangan,Hindia,2wAiFWjRupWmnDkQcu91MF,2019-11-29,72,277457,0.72,0.456,0.786,0.616,0.186,0.488,-7.396,0.0319,116.032,11,4
+Mine,Mine,Petra Sihombing,6NkUP6IeLnH6Yaw2wcNHzO,2014-06-30,64,229120,0.472,0.467,0.572,0.0,0.0711,0.361,-5.651,0.0282,81.367,3,4
+Memory Lane,Memory Lane,TheOvertunes,1Hyk2raTi3OOYuIOGUe8si,2019-03-15,19,287078,0.694,0.514,0.4,8.42e-05,0.326,0.402,-9.553,0.035,121.96,2,4
+Modern Loneliness,~how i'm feeling~,Lauv,1eyek0KJEh2v5HQ9uQSybb,2020-03-06,16,252337,0.702,0.144,0.508,0.0,0.108,0.143,-7.105,0.035,82.009,8,4
+i'm so tired...,~how i'm feeling~,Lauv,4vjpLMyL3ZO6aphdYr8XYw,2020-03-06,29,162586,0.576,0.178,0.736,0.0,0.238,0.484,-7.572,0.224,101.928,11,4
+lowkey,lowkey,NIKI,5TTXEcfsYLh6fTarLaevTi,2019-04-24,77,171355,0.752,0.432,0.494,0.0,0.0869,0.227,-8.18,0.0559,117.901,0,4
+Sad Forever,Sad Forever,Lauv,4a5zacCsHLtMC2mcxkqWwn,2019-05-31,0,203507,0.527,0.468,0.538,0.0,0.0825,0.389,-7.434,0.104,117.319,5,4
+Kenangan Manis,Walk The Talk,Pamungkas,1tS1dRfxIV9FzqdYTbJgMn,2018-07-15,70,207937,0.604,0.0511,0.678,0.00169,0.0945,0.721,-7.331,0.0304,139.974,4,4
+Monokrom,Monokrom,Tulus,4GfK1qOF3uBWidbPlTCQRL,2016-08-03,77,214567,0.534,0.573,0.462,5.59e-06,0.0974,0.519,-9.383,0.0326,88.046,6,4
+Line Without a Hook,Montgomery Ricky,Ricky Montgomery,5NvOZCjZaGGGL597exlQWv,2016-04-08,78,249586,0.432,0.262,0.652,0.0,0.258,0.507,-4.969,0.0285,190.028,8,3
+Gone,Gone,Blake Rose,6sHxpnCerm9M6A5zaFFNfs,2020-02-07,12,205462,0.317,0.039,0.545,0.0,0.116,0.14,-6.439,0.0469,139.014,11,5
+Sepanjang Hari,Tentang Yang Tak Di Kata,Coffternoon,6trHOuesXNaUT2dOTDM6Kz,2015,30,246442,0.668,0.474,0.317,0.000651,0.313,0.536,-17.291,0.0599,95.076,4,4
+Be My Mistake,A Brief Inquiry Into Online Relationships,The 1975,18UsAG7SfOQ5sxJEdjAMH0,2018-11-30,70,256688,0.572,0.835,0.155,0.000137,0.0906,0.0949,-14.405,0.0344,109.923,6,3
+Grow As We Go,Sing To Me Instead,Ben Platt,6hYvw3LLTViP2mT4MpDNmT,2019-03-29,62,249426,0.458,0.882,0.137,0.0,0.15,0.437,-14.083,0.0355,80.824,8,4
+say i'm sorry,say i'm sorry,Afgan,5Lb2QYTLzzP7mpr8UcNwg2,2021-02-05,38,175635,0.641,0.122,0.603,0.0,0.138,0.252,-6.346,0.047,117.953,4,4
+Sweater Weather,I Love You.,The Neighbourhood,2QjOHCTQ1Jl3zawyYOpxh6,2013-04-19,89,240400,0.612,0.0495,0.807,0.0177,0.101,0.398,-2.81,0.0336,124.053,10,4
+One More Light,One More Light,Linkin Park,3xXBsjrbG1xQIm1xv1cKOt,2017-05-19,71,255066,0.593,0.904,0.2,0.0,0.0897,0.17,-11.063,0.0311,83.966,8,4
+Everglow,A Head Full of Dreams,Coldplay,5qfZRNjt2TkHEL12r3sDEU,2015-12-04,67,282693,0.534,0.456,0.445,0.0684,0.112,0.136,-9.155,0.0292,146.107,4,4
+,happy,Skinnyfabs,2E532ozrMbRXwuZkpoegUP,2019-07-05,0,0,0.736,0.537,0.432,0.0397,0.11,0.706,-11.636,0.0269,87.999,3,4
+Rewrite The Stars,Rewrite The Stars,Zac Efron,630sXRhIcfwr2e4RdNtjKN,2017-11-17,72,217440,0.684,0.0716,0.619,0.0,0.122,0.284,-7.005,0.0386,125.046,10,4
+"always, i'll care",love is not dying,Jeremy Zucker,0rbKrBvZUYY9GN9l057BuY,2020-04-17,71,146160,0.732,0.897,0.221,2.62e-05,0.11,0.677,-12.623,0.056,105.165,6,4
+American Girls,Ambitions,ONE OK ROCK,2k1PUdpVQbeJYSkQm50zLO,2017-01-13,44,168600,0.47,8.66e-05,0.936,0.0,0.0286,0.845,-3.947,0.0557,157.936,11,4
+In the Stars (feat. Kiiara),Eye of the Storm,ONE OK ROCK,1OEKNjrCnModm8cHJ7hRXc,2019-02-15,41,203706,0.638,0.467,0.796,0.0,0.086,0.262,-4.078,0.0397,79.032,0,4
+"fuck, i'm lonely",~how i'm feeling~,Lauv,09PGubKAMryhOWv1LHpCYz,2020-03-06,23,198973,0.809,0.46,0.547,0.0,0.0543,0.717,-7.304,0.0609,95.012,9,4
+Stay With Me (feat. Jeremy Zucker),In the Shape of a Dream,ayokay,65Bynqyt59f3fojjs1Uo41,2018-08-31,53,189786,0.694,0.489,0.695,0.000159,0.131,0.468,-6.612,0.0705,100.035,2,4
+Mood (feat. iann dior),Mood (feat. iann dior),24kGoldn,3tjFYV6RSFtuktYl3ZtYcq,2020-07-24,17,140525,0.7,0.221,0.722,0.0,0.272,0.756,-3.558,0.0369,90.989,7,4
+Kangen,Kerajaan Cinta,Dewa 19,5LqanqJSmZwbwPtIi2RwTb,2007,0,300512,0.618,0.0384,0.776,0.0,0.127,0.842,-6.41,0.0282,133.986,2,4
+Don't Stop Me Now,Discover More Classic Rock,Various Artists,0DrDcqWpokMlhKYJSwoT4B,2020-08-10,63,209160,0.474,0.0237,0.861,0.0158,0.664,0.6,-5.984,0.26,156.333,0,4
+Inti Bumi,Inti Bumi,Rasukma,0XVCJMJWllaQBaToMgvUhN,2019-01-11,38,316122,0.556,0.825,0.136,0.000168,0.347,0.229,-15.818,0.0863,113.673,1,4
+I've Got You Covered,Sugar & The Hi Lows,Sugar & The Hi Lows,2AIgaszMm1fKZ97Prgzmv4,2012-02-14,27,224346,0.543,0.121,0.49,0.000176,0.156,0.51,-7.7,0.026,107.976,11,3
+Wrong Places (from Songland),Wrong Places (from Songland),H.E.R.,2mtLGVN6xZm93wDG9nvviS,2020-04-27,53,197727,0.548,0.224,0.457,8.32e-05,0.11,0.494,-7.626,0.0691,175.659,4,4
+Rindu,Rindu,Dengarkan Dia,6Fldcb48M743FktYimcWPI,2018-08-10,39,223191,0.533,0.874,0.409,0.368,0.126,0.317,-9.953,0.0319,79.018,7,4
+When Jakarta Snows,When Jakarta Snows,T. Rucira,1yaOIRnMRDLbhZEBNFhZ34,2017-08-01,31,167415,0.806,0.935,0.0678,0.125,0.126,0.481,-23.255,0.061,109.914,0,4
+Alexandra,What Do You Really Know?,Reality Club,7JFFMicliyVArHQgwEqVBS,2019-08-30,64,238542,0.382,0.745,0.355,2.65e-06,0.248,0.146,-10.025,0.0336,138.419,9,4
+Ada Aku Disini,Ada Aku Disini,Dhyo Haw,6uG9abKGpUTs0435EWd3d5,2016-05-20,60,218279,0.764,0.3,0.483,1.43e-06,0.131,0.809,-8.178,0.0269,95.036,9,4
+Your Name / My Name,Fickle Island,Angela Moyra,3DITpvSuKO9fla0KVyd7JM,2014-06-02,0,211511,0.623,0.961,0.152,1.03e-05,0.0776,0.312,-12.096,0.0369,108.045,11,4
+"Beginning Middle End - From The Netflix Film ""To All The Boys: Always and Forever""",To All The Boys: Always and Forever (Music From The Netflix Film),Various Artists,5Dz8nrwQlPLE68WaTEIqY5,2021-02-12,47,194826,0.674,0.43,0.676,3.13e-05,0.108,0.919,-6.878,0.0367,78.99,2,4
+Here Comes The Sun - Remastered 2009,Abbey Road (Remastered),The Beatles,6dGnYIeXmHdcikdzNNDMm2,1969-09-26,81,185733,0.557,0.0339,0.54,0.00248,0.179,0.394,-10.484,0.0347,129.171,9,4
+Leave The Door Open,Leave The Door Open,Bruno Mars,7MAibcTli4IisCtbHKrGMh,2021-03-05,16,242096,0.586,0.182,0.616,0.0,0.0927,0.719,-7.964,0.0324,148.088,5,4
+In Case You Didn’t Know,"Cover Sessions, Vol. 4",Boyce Avenue,5pq4v03P5PxMcnCagg4S3Z,2017-12-19,58,225165,0.633,0.833,0.299,0.0,0.109,0.341,-7.798,0.0353,147.549,11,4
+Never Not,I met you when I was 18. (the playlist),Lauv,4fFfyouye6vrX9o9z4PVMu,2018-05-31,22,208000,0.47,0.693,0.221,0.0,0.104,0.264,-9.243,0.0371,133.714,5,4
+NO MORE MUSIC,No More Music,OKAMOTO'S,7EEcYJ2RQ3jfSaXRPJ8Ito,2017-08-02,0,227466,0.701,0.000101,0.761,9.86e-06,0.151,0.705,-7.206,0.0258,106.002,9,4
+Sayonara,Dari Balik Jendela,Monita Tahalea,5qey0yQ9ESpxcVwag5y88X,2020-03-13,39,158760,0.694,0.908,0.233,3.83e-06,0.39,0.643,-12.485,0.032,111.03,9,4
+I Still Love You,Cek Toko Sebelah (Original Motion Picture Soundtrack),TheOvertunes,4reIsHKw5hUj4pV8zzMjLA,2016-12-20,65,286313,0.446,0.906,0.159,5.24e-06,0.11,0.172,-12.129,0.0376,119.93,1,4
