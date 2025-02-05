@@ -10,9 +10,9 @@ In this step, I retrieve the song data from Spotify using the [Spotipy API](http
 ### General Music Data
 - **name**: The name of the song.
 - **album**: The album containing the song.
-  - **album name**: The name of the album.
-  - **artist**: The artist who performed the song (only the first artist is considered in this case).
-  - **release_date**: The date the album was released.
+- **album name**: The name of the album.
+- **artist**: The artist who performed the song (only the first artist is considered in this case).
+- **release_date**: The date the album was released.
 - **length**: The duration of the song in milliseconds.
 - **popularity**: A measure of the song's popularity, where higher values indicate more popularity.
 - **ids**: The unique identifier for the song on Spotify.
